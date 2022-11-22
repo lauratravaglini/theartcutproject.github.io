@@ -146,7 +146,7 @@ p {
 	}
 }
 
-#arrow2 {
+.arrow2 {
     content: url(./img/futarrow2.png);
     width: auto;
     height: 8vh;
@@ -516,7 +516,7 @@ section {
 }
 
 
-#conclusion {
+#conclusion1, #conclusion2, #conclusion3 {
     background-color: black !important;
     color: white !important;
 }
